@@ -1,1 +1,3 @@
-# data_warehouse_DE23_kokchun_giang
+# Data warehouse lifecycle course
+
+I learn data warehouse here 
