@@ -11,3 +11,4 @@ USE SCHEMA staging;
 SHOW TABLES;
 
 SELECT * FROM data_field_job_ads;
+SELECT count(*) FROM data_field_job_ads;
